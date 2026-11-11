@@ -1,0 +1,481 @@
+iso_code,country_name,year,technology,technology_group,capacity_mw,capacity_gw
+IDN,Indonesia,2015,Biogas,Other,45.72,0.0457
+IDN,Indonesia,2015,Geothermal energy,Other,1438.3,1.4383
+IDN,Indonesia,2015,Offshore wind energy,Wind,0.0,0.0
+IDN,Indonesia,2015,Onshore wind energy,Wind,1.46,0.0015
+IDN,Indonesia,2015,Renewable hydropower,Hydro,5307.45,5.3075
+IDN,Indonesia,2015,Solar photovoltaic,Solar,36.94,0.0369
+IDN,Indonesia,2016,Biogas,Other,48.16,0.0482
+IDN,Indonesia,2016,Geothermal energy,Other,1533.3,1.5333
+IDN,Indonesia,2016,Offshore wind energy,Wind,0.0,0.0
+IDN,Indonesia,2016,Onshore wind energy,Wind,1.46,0.0015
+IDN,Indonesia,2016,Renewable hydropower,Hydro,5650.86,5.6509
+IDN,Indonesia,2016,Solar photovoltaic,Solar,46.7,0.0467
+IDN,Indonesia,2017,Biogas,Other,48.62,0.0486
+IDN,Indonesia,2017,Geothermal energy,Other,1808.3,1.8083
+IDN,Indonesia,2017,Offshore wind energy,Wind,0.0,0.0
+IDN,Indonesia,2017,Onshore wind energy,Wind,1.46,0.0015
+IDN,Indonesia,2017,Renewable hydropower,Hydro,5687.9,5.6879
+IDN,Indonesia,2017,Solar photovoltaic,Solar,54.48,0.0545
+IDN,Indonesia,2018,Biogas,Other,40.35,0.0404
+IDN,Indonesia,2018,Geothermal energy,Other,1948.3,1.9483
+IDN,Indonesia,2018,Offshore wind energy,Wind,0.0,0.0
+IDN,Indonesia,2018,Onshore wind energy,Wind,143.03,0.143
+IDN,Indonesia,2018,Renewable hydropower,Hydro,4827.77,4.8278
+IDN,Indonesia,2018,Solar photovoltaic,Solar,24.42,0.0244
+IDN,Indonesia,2019,Biogas,Other,42.15,0.0421
+IDN,Indonesia,2019,Geothermal energy,Other,2130.7,2.1307
+IDN,Indonesia,2019,Offshore wind energy,Wind,0.0,0.0
+IDN,Indonesia,2019,Onshore wind energy,Wind,153.83,0.1538
+IDN,Indonesia,2019,Renewable hydropower,Hydro,5031.15,5.0311
+IDN,Indonesia,2019,Solar photovoltaic,Solar,105.03,0.105
+IDN,Indonesia,2020,Biogas,Other,18.6,0.0186
+IDN,Indonesia,2020,Geothermal energy,Other,2130.7,2.1307
+IDN,Indonesia,2020,Offshore wind energy,Wind,0.0,0.0
+IDN,Indonesia,2020,Onshore wind energy,Wind,153.83,0.1538
+IDN,Indonesia,2020,Renewable hydropower,Hydro,5176.0,5.176
+IDN,Indonesia,2020,Solar photovoltaic,Solar,107.37,0.1074
+IDN,Indonesia,2021,Biogas,Other,22.1,0.0221
+IDN,Indonesia,2021,Geothermal energy,Other,2286.05,2.2861
+IDN,Indonesia,2021,Offshore wind energy,Wind,0.0,0.0
+IDN,Indonesia,2021,Onshore wind energy,Wind,153.83,0.1538
+IDN,Indonesia,2021,Renewable hydropower,Hydro,5637.45,5.6374
+IDN,Indonesia,2021,Solar photovoltaic,Solar,155.29,0.1553
+IDN,Indonesia,2022,Biogas,Other,24.11,0.0241
+IDN,Indonesia,2022,Geothermal energy,Other,2360.33,2.3603
+IDN,Indonesia,2022,Offshore wind energy,Wind,0.0,0.0
+IDN,Indonesia,2022,Onshore wind energy,Wind,153.83,0.1538
+IDN,Indonesia,2022,Renewable hydropower,Hydro,5725.61,5.7256
+IDN,Indonesia,2022,Solar photovoltaic,Solar,190.06,0.1901
+IDN,Indonesia,2023,Biogas,Other,36.51,0.0365
+IDN,Indonesia,2023,Geothermal energy,Other,2597.51,2.5975
+IDN,Indonesia,2023,Offshore wind energy,Wind,0.0,0.0
+IDN,Indonesia,2023,Onshore wind energy,Wind,151.82,0.1518
+IDN,Indonesia,2023,Renewable hydropower,Hydro,5601.64,5.6016
+IDN,Indonesia,2023,Solar photovoltaic,Solar,323.46,0.3235
+IDN,Indonesia,2024,Biogas,Other,36.51,0.0365
+IDN,Indonesia,2024,Geothermal energy,Other,2638.8,2.6388
+IDN,Indonesia,2024,Offshore wind energy,Wind,0.0,0.0
+IDN,Indonesia,2024,Onshore wind energy,Wind,151.82,0.1518
+IDN,Indonesia,2024,Renewable hydropower,Hydro,6004.25,6.0042
+IDN,Indonesia,2024,Solar photovoltaic,Solar,494.53,0.4945
+KHM,Cambodia,2015,Biogas,Other,0.0,0.0
+KHM,Cambodia,2015,Geothermal energy,Other,0.0,0.0
+KHM,Cambodia,2015,Offshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2015,Onshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2015,Renewable hydropower,Hydro,929.7,0.9297
+KHM,Cambodia,2015,Solar photovoltaic,Solar,10.91,0.0109
+KHM,Cambodia,2016,Biogas,Other,0.0,0.0
+KHM,Cambodia,2016,Geothermal energy,Other,0.0,0.0
+KHM,Cambodia,2016,Offshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2016,Onshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2016,Renewable hydropower,Hydro,930.0,0.93
+KHM,Cambodia,2016,Solar photovoltaic,Solar,16.38,0.0164
+KHM,Cambodia,2017,Biogas,Other,0.0,0.0
+KHM,Cambodia,2017,Geothermal energy,Other,0.0,0.0
+KHM,Cambodia,2017,Offshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2017,Onshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2017,Renewable hydropower,Hydro,979.7,0.9797
+KHM,Cambodia,2017,Solar photovoltaic,Solar,29.9,0.0299
+KHM,Cambodia,2018,Biogas,Other,0.0,0.0
+KHM,Cambodia,2018,Geothermal energy,Other,0.0,0.0
+KHM,Cambodia,2018,Offshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2018,Onshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2018,Renewable hydropower,Hydro,1329.7,1.3297
+KHM,Cambodia,2018,Solar photovoltaic,Solar,40.85,0.0409
+KHM,Cambodia,2019,Biogas,Other,0.0,0.0
+KHM,Cambodia,2019,Geothermal energy,Other,0.0,0.0
+KHM,Cambodia,2019,Offshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2019,Onshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2019,Renewable hydropower,Hydro,1329.7,1.3297
+KHM,Cambodia,2019,Solar photovoltaic,Solar,136.45,0.1364
+KHM,Cambodia,2020,Biogas,Other,0.0,0.0
+KHM,Cambodia,2020,Geothermal energy,Other,0.0,0.0
+KHM,Cambodia,2020,Offshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2020,Onshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2020,Renewable hydropower,Hydro,1329.7,1.3297
+KHM,Cambodia,2020,Solar photovoltaic,Solar,329.53,0.3295
+KHM,Cambodia,2021,Biogas,Other,0.0,0.0
+KHM,Cambodia,2021,Geothermal energy,Other,0.0,0.0
+KHM,Cambodia,2021,Offshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2021,Onshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2021,Renewable hydropower,Hydro,1329.7,1.3297
+KHM,Cambodia,2021,Solar photovoltaic,Solar,391.27,0.3913
+KHM,Cambodia,2022,Biogas,Other,0.0,0.0
+KHM,Cambodia,2022,Geothermal energy,Other,0.0,0.0
+KHM,Cambodia,2022,Offshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2022,Onshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2022,Renewable hydropower,Hydro,1331.7,1.3317
+KHM,Cambodia,2022,Solar photovoltaic,Solar,476.11,0.4761
+KHM,Cambodia,2023,Biogas,Other,0.0,0.0
+KHM,Cambodia,2023,Geothermal energy,Other,0.0,0.0
+KHM,Cambodia,2023,Offshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2023,Onshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2023,Renewable hydropower,Hydro,1331.7,1.3317
+KHM,Cambodia,2023,Solar photovoltaic,Solar,481.64,0.4816
+KHM,Cambodia,2024,Biogas,Other,0.0,0.0
+KHM,Cambodia,2024,Geothermal energy,Other,0.0,0.0
+KHM,Cambodia,2024,Offshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2024,Onshore wind energy,Wind,0.0,0.0
+KHM,Cambodia,2024,Renewable hydropower,Hydro,1336.7,1.3367
+KHM,Cambodia,2024,Solar photovoltaic,Solar,871.84,0.8718
+LAO,Laos,2015,Biogas,Other,0.0,0.0
+LAO,Laos,2015,Geothermal energy,Other,0.0,0.0
+LAO,Laos,2015,Offshore wind energy,Wind,0.0,0.0
+LAO,Laos,2015,Onshore wind energy,Wind,0.0,0.0
+LAO,Laos,2015,Renewable hydropower,Hydro,4391.24,4.3912
+LAO,Laos,2015,Solar photovoltaic,Solar,0.64,0.0006
+LAO,Laos,2016,Biogas,Other,0.0,0.0
+LAO,Laos,2016,Geothermal energy,Other,0.0,0.0
+LAO,Laos,2016,Offshore wind energy,Wind,0.0,0.0
+LAO,Laos,2016,Onshore wind energy,Wind,0.0,0.0
+LAO,Laos,2016,Renewable hydropower,Hydro,4867.38,4.8674
+LAO,Laos,2016,Solar photovoltaic,Solar,0.73,0.0007
+LAO,Laos,2017,Biogas,Other,0.0,0.0
+LAO,Laos,2017,Geothermal energy,Other,0.0,0.0
+LAO,Laos,2017,Offshore wind energy,Wind,0.0,0.0
+LAO,Laos,2017,Onshore wind energy,Wind,0.0,0.0
+LAO,Laos,2017,Renewable hydropower,Hydro,5106.88,5.1069
+LAO,Laos,2017,Solar photovoltaic,Solar,6.8,0.0068
+LAO,Laos,2018,Biogas,Other,0.0,0.0
+LAO,Laos,2018,Geothermal energy,Other,0.0,0.0
+LAO,Laos,2018,Offshore wind energy,Wind,0.0,0.0
+LAO,Laos,2018,Onshore wind energy,Wind,0.0,0.0
+LAO,Laos,2018,Renewable hydropower,Hydro,5384.88,5.3849
+LAO,Laos,2018,Solar photovoltaic,Solar,32.73,0.0327
+LAO,Laos,2019,Biogas,Other,0.0,0.0
+LAO,Laos,2019,Geothermal energy,Other,0.0,0.0
+LAO,Laos,2019,Offshore wind energy,Wind,0.0,0.0
+LAO,Laos,2019,Onshore wind energy,Wind,0.0,0.0
+LAO,Laos,2019,Renewable hydropower,Hydro,6226.88,6.2269
+LAO,Laos,2019,Solar photovoltaic,Solar,32.73,0.0327
+LAO,Laos,2020,Biogas,Other,0.0,0.0
+LAO,Laos,2020,Geothermal energy,Other,0.0,0.0
+LAO,Laos,2020,Offshore wind energy,Wind,0.0,0.0
+LAO,Laos,2020,Onshore wind energy,Wind,0.0,0.0
+LAO,Laos,2020,Renewable hydropower,Hydro,8016.08,8.0161
+LAO,Laos,2020,Solar photovoltaic,Solar,43.73,0.0437
+LAO,Laos,2021,Biogas,Other,0.0,0.0
+LAO,Laos,2021,Geothermal energy,Other,0.0,0.0
+LAO,Laos,2021,Offshore wind energy,Wind,0.0,0.0
+LAO,Laos,2021,Onshore wind energy,Wind,0.0,0.0
+LAO,Laos,2021,Renewable hydropower,Hydro,8958.68,8.9587
+LAO,Laos,2021,Solar photovoltaic,Solar,57.74,0.0577
+LAO,Laos,2022,Biogas,Other,0.0,0.0
+LAO,Laos,2022,Geothermal energy,Other,0.0,0.0
+LAO,Laos,2022,Offshore wind energy,Wind,0.0,0.0
+LAO,Laos,2022,Onshore wind energy,Wind,0.0,0.0
+LAO,Laos,2022,Renewable hydropower,Hydro,9648.68,9.6487
+LAO,Laos,2022,Solar photovoltaic,Solar,57.74,0.0577
+LAO,Laos,2023,Biogas,Other,0.0,0.0
+LAO,Laos,2023,Geothermal energy,Other,0.0,0.0
+LAO,Laos,2023,Offshore wind energy,Wind,0.0,0.0
+LAO,Laos,2023,Onshore wind energy,Wind,0.0,0.0
+LAO,Laos,2023,Renewable hydropower,Hydro,9774.23,9.7742
+LAO,Laos,2023,Solar photovoltaic,Solar,57.76,0.0578
+LAO,Laos,2024,Biogas,Other,0.0,0.0
+LAO,Laos,2024,Geothermal energy,Other,0.0,0.0
+LAO,Laos,2024,Offshore wind energy,Wind,0.0,0.0
+LAO,Laos,2024,Onshore wind energy,Wind,0.0,0.0
+LAO,Laos,2024,Renewable hydropower,Hydro,10187.23,10.1872
+LAO,Laos,2024,Solar photovoltaic,Solar,57.76,0.0578
+MMR,Myanmar,2015,Biogas,Other,0.0,0.0
+MMR,Myanmar,2015,Geothermal energy,Other,0.0,0.0
+MMR,Myanmar,2015,Offshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2015,Onshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2015,Renewable hydropower,Hydro,3183.0,3.183
+MMR,Myanmar,2015,Solar photovoltaic,Solar,0.0,0.0
+MMR,Myanmar,2016,Biogas,Other,0.0,0.0
+MMR,Myanmar,2016,Geothermal energy,Other,0.0,0.0
+MMR,Myanmar,2016,Offshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2016,Onshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2016,Renewable hydropower,Hydro,3255.0,3.255
+MMR,Myanmar,2016,Solar photovoltaic,Solar,0.0,0.0
+MMR,Myanmar,2017,Biogas,Other,0.0,0.0
+MMR,Myanmar,2017,Geothermal energy,Other,0.0,0.0
+MMR,Myanmar,2017,Offshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2017,Onshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2017,Renewable hydropower,Hydro,3255.0,3.255
+MMR,Myanmar,2017,Solar photovoltaic,Solar,0.0,0.0
+MMR,Myanmar,2018,Biogas,Other,0.0,0.0
+MMR,Myanmar,2018,Geothermal energy,Other,0.0,0.0
+MMR,Myanmar,2018,Offshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2018,Onshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2018,Renewable hydropower,Hydro,3262.0,3.262
+MMR,Myanmar,2018,Solar photovoltaic,Solar,0.0,0.0
+MMR,Myanmar,2019,Biogas,Other,0.0,0.0
+MMR,Myanmar,2019,Geothermal energy,Other,0.0,0.0
+MMR,Myanmar,2019,Offshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2019,Onshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2019,Renewable hydropower,Hydro,3262.0,3.262
+MMR,Myanmar,2019,Solar photovoltaic,Solar,40.0,0.04
+MMR,Myanmar,2020,Biogas,Other,0.0,0.0
+MMR,Myanmar,2020,Geothermal energy,Other,0.0,0.0
+MMR,Myanmar,2020,Offshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2020,Onshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2020,Renewable hydropower,Hydro,3262.0,3.262
+MMR,Myanmar,2020,Solar photovoltaic,Solar,40.0,0.04
+MMR,Myanmar,2021,Biogas,Other,0.0,0.0
+MMR,Myanmar,2021,Geothermal energy,Other,0.0,0.0
+MMR,Myanmar,2021,Offshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2021,Onshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2021,Renewable hydropower,Hydro,3262.0,3.262
+MMR,Myanmar,2021,Solar photovoltaic,Solar,70.0,0.07
+MMR,Myanmar,2022,Biogas,Other,0.0,0.0
+MMR,Myanmar,2022,Geothermal energy,Other,0.0,0.0
+MMR,Myanmar,2022,Offshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2022,Onshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2022,Renewable hydropower,Hydro,3262.0,3.262
+MMR,Myanmar,2022,Solar photovoltaic,Solar,92.9,0.0929
+MMR,Myanmar,2023,Biogas,Other,0.0,0.0
+MMR,Myanmar,2023,Geothermal energy,Other,0.0,0.0
+MMR,Myanmar,2023,Offshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2023,Onshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2023,Renewable hydropower,Hydro,3262.0,3.262
+MMR,Myanmar,2023,Solar photovoltaic,Solar,92.9,0.0929
+MMR,Myanmar,2024,Biogas,Other,0.0,0.0
+MMR,Myanmar,2024,Geothermal energy,Other,0.0,0.0
+MMR,Myanmar,2024,Offshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2024,Onshore wind energy,Wind,0.0,0.0
+MMR,Myanmar,2024,Renewable hydropower,Hydro,3262.0,3.262
+MMR,Myanmar,2024,Solar photovoltaic,Solar,122.9,0.1229
+MYS,Malaysia,2015,Biogas,Other,20.23,0.0202
+MYS,Malaysia,2015,Geothermal energy,Other,0.0,0.0
+MYS,Malaysia,2015,Offshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2015,Onshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2015,Renewable hydropower,Hydro,6038.23,6.0382
+MYS,Malaysia,2015,Solar photovoltaic,Solar,219.89,0.2199
+MYS,Malaysia,2016,Biogas,Other,58.27,0.0583
+MYS,Malaysia,2016,Geothermal energy,Other,0.0,0.0
+MYS,Malaysia,2016,Offshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2016,Onshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2016,Renewable hydropower,Hydro,6115.39,6.1154
+MYS,Malaysia,2016,Solar photovoltaic,Solar,284.74,0.2847
+MYS,Malaysia,2017,Biogas,Other,61.79,0.0618
+MYS,Malaysia,2017,Geothermal energy,Other,0.0,0.0
+MYS,Malaysia,2017,Offshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2017,Onshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2017,Renewable hydropower,Hydro,5894.64,5.8946
+MYS,Malaysia,2017,Solar photovoltaic,Solar,328.31,0.3283
+MYS,Malaysia,2018,Biogas,Other,69.94,0.0699
+MYS,Malaysia,2018,Geothermal energy,Other,0.0,0.0
+MYS,Malaysia,2018,Offshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2018,Onshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2018,Renewable hydropower,Hydro,6167.91,6.1679
+MYS,Malaysia,2018,Solar photovoltaic,Solar,473.53,0.4735
+MYS,Malaysia,2019,Biogas,Other,102.76,0.1028
+MYS,Malaysia,2019,Geothermal energy,Other,0.0,0.0
+MYS,Malaysia,2019,Offshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2019,Onshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2019,Renewable hydropower,Hydro,6190.14,6.1901
+MYS,Malaysia,2019,Solar photovoltaic,Solar,821.66,0.8217
+MYS,Malaysia,2020,Biogas,Other,110.59,0.1106
+MYS,Malaysia,2020,Geothermal energy,Other,0.0,0.0
+MYS,Malaysia,2020,Offshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2020,Onshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2020,Renewable hydropower,Hydro,6188.39,6.1884
+MYS,Malaysia,2020,Solar photovoltaic,Solar,1475.15,1.4752
+MYS,Malaysia,2021,Biogas,Other,124.3,0.1243
+MYS,Malaysia,2021,Geothermal energy,Other,0.0,0.0
+MYS,Malaysia,2021,Offshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2021,Onshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2021,Renewable hydropower,Hydro,6217.22,6.2172
+MYS,Malaysia,2021,Solar photovoltaic,Solar,1575.12,1.5751
+MYS,Malaysia,2022,Biogas,Other,137.6,0.1376
+MYS,Malaysia,2022,Geothermal energy,Other,0.0,0.0
+MYS,Malaysia,2022,Offshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2022,Onshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2022,Renewable hydropower,Hydro,6226.22,6.2262
+MYS,Malaysia,2022,Solar photovoltaic,Solar,2122.81,2.1228
+MYS,Malaysia,2023,Biogas,Other,155.27,0.1553
+MYS,Malaysia,2023,Geothermal energy,Other,0.0,0.0
+MYS,Malaysia,2023,Offshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2023,Onshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2023,Renewable hydropower,Hydro,6266.87,6.2669
+MYS,Malaysia,2023,Solar photovoltaic,Solar,2137.23,2.1372
+MYS,Malaysia,2024,Biogas,Other,155.27,0.1553
+MYS,Malaysia,2024,Geothermal energy,Other,0.0,0.0
+MYS,Malaysia,2024,Offshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2024,Onshore wind energy,Wind,0.0,0.0
+MYS,Malaysia,2024,Renewable hydropower,Hydro,6266.87,6.2669
+MYS,Malaysia,2024,Solar photovoltaic,Solar,2297.23,2.2972
+PHL,Philippines,2015,Biogas,Other,9.7,0.0097
+PHL,Philippines,2015,Geothermal energy,Other,1916.1,1.9161
+PHL,Philippines,2015,Offshore wind energy,Wind,0.0,0.0
+PHL,Philippines,2015,Onshore wind energy,Wind,426.9,0.4269
+PHL,Philippines,2015,Renewable hydropower,Hydro,2865.6,2.8656
+PHL,Philippines,2015,Solar photovoltaic,Solar,181.31,0.1813
+PHL,Philippines,2016,Biogas,Other,9.7,0.0097
+PHL,Philippines,2016,Geothermal energy,Other,1916.1,1.9161
+PHL,Philippines,2016,Offshore wind energy,Wind,0.0,0.0
+PHL,Philippines,2016,Onshore wind energy,Wind,426.9,0.4269
+PHL,Philippines,2016,Renewable hydropower,Hydro,2875.7,2.8757
+PHL,Philippines,2016,Solar photovoltaic,Solar,798.02,0.798
+PHL,Philippines,2017,Biogas,Other,11.7,0.0117
+PHL,Philippines,2017,Geothermal energy,Other,1916.1,1.9161
+PHL,Philippines,2017,Offshore wind energy,Wind,0.0,0.0
+PHL,Philippines,2017,Onshore wind energy,Wind,426.9,0.4269
+PHL,Philippines,2017,Renewable hydropower,Hydro,2885.0,2.885
+PHL,Philippines,2017,Solar photovoltaic,Solar,922.61,0.9226
+PHL,Philippines,2018,Biogas,Other,24.09,0.0241
+PHL,Philippines,2018,Geothermal energy,Other,1928.1,1.9281
+PHL,Philippines,2018,Offshore wind energy,Wind,0.0,0.0
+PHL,Philippines,2018,Onshore wind energy,Wind,426.9,0.4269
+PHL,Philippines,2018,Renewable hydropower,Hydro,2963.9,2.9639
+PHL,Philippines,2018,Solar photovoltaic,Solar,932.89,0.9329
+PHL,Philippines,2019,Biogas,Other,24.09,0.0241
+PHL,Philippines,2019,Geothermal energy,Other,1928.1,1.9281
+PHL,Philippines,2019,Offshore wind energy,Wind,0.0,0.0
+PHL,Philippines,2019,Onshore wind energy,Wind,426.9,0.4269
+PHL,Philippines,2019,Renewable hydropower,Hydro,2996.0,2.996
+PHL,Philippines,2019,Solar photovoltaic,Solar,994.69,0.9947
+PHL,Philippines,2020,Biogas,Other,26.49,0.0265
+PHL,Philippines,2020,Geothermal energy,Other,1928.1,1.9281
+PHL,Philippines,2020,Offshore wind energy,Wind,0.0,0.0
+PHL,Philippines,2020,Onshore wind energy,Wind,426.9,0.4269
+PHL,Philippines,2020,Renewable hydropower,Hydro,3014.5,3.0145
+PHL,Philippines,2020,Solar photovoltaic,Solar,1073.93,1.0739
+PHL,Philippines,2021,Biogas,Other,26.49,0.0265
+PHL,Philippines,2021,Geothermal energy,Other,1928.1,1.9281
+PHL,Philippines,2021,Offshore wind energy,Wind,0.0,0.0
+PHL,Philippines,2021,Onshore wind energy,Wind,426.9,0.4269
+PHL,Philippines,2021,Renewable hydropower,Hydro,3017.9,3.0179
+PHL,Philippines,2021,Solar photovoltaic,Solar,1396.63,1.3966
+PHL,Philippines,2022,Biogas,Other,25.69,0.0257
+PHL,Philippines,2022,Geothermal energy,Other,1932.0,1.932
+PHL,Philippines,2022,Offshore wind energy,Wind,0.0,0.0
+PHL,Philippines,2022,Onshore wind energy,Wind,426.9,0.4269
+PHL,Philippines,2022,Renewable hydropower,Hydro,3010.5,3.0105
+PHL,Philippines,2022,Solar photovoltaic,Solar,1648.84,1.6488
+PHL,Philippines,2023,Biogas,Other,25.69,0.0257
+PHL,Philippines,2023,Geothermal energy,Other,1951.8,1.9518
+PHL,Philippines,2023,Offshore wind energy,Wind,0.0,0.0
+PHL,Philippines,2023,Onshore wind energy,Wind,426.9,0.4269
+PHL,Philippines,2023,Renewable hydropower,Hydro,3065.0,3.065
+PHL,Philippines,2023,Solar photovoltaic,Solar,1784.04,1.784
+PHL,Philippines,2024,Biogas,Other,26.87,0.0269
+PHL,Philippines,2024,Geothermal energy,Other,1951.8,1.9518
+PHL,Philippines,2024,Offshore wind energy,Wind,0.0,0.0
+PHL,Philippines,2024,Onshore wind energy,Wind,426.9,0.4269
+PHL,Philippines,2024,Renewable hydropower,Hydro,3102.1,3.1021
+PHL,Philippines,2024,Solar photovoltaic,Solar,2948.48,2.9485
+THA,Thailand,2015,Biogas,Other,372.5,0.3725
+THA,Thailand,2015,Geothermal energy,Other,0.3,0.0003
+THA,Thailand,2015,Offshore wind energy,Wind,0.0,0.0
+THA,Thailand,2015,Onshore wind energy,Wind,233.9,0.2339
+THA,Thailand,2015,Renewable hydropower,Hydro,1709.5,1.7095
+THA,Thailand,2015,Solar photovoltaic,Solar,1419.6,1.4196
+THA,Thailand,2016,Biogas,Other,434.86,0.4349
+THA,Thailand,2016,Geothermal energy,Other,0.3,0.0003
+THA,Thailand,2016,Offshore wind energy,Wind,0.0,0.0
+THA,Thailand,2016,Onshore wind energy,Wind,507.04,0.507
+THA,Thailand,2016,Renewable hydropower,Hydro,1719.52,1.7195
+THA,Thailand,2016,Solar photovoltaic,Solar,2446.1,2.4461
+THA,Thailand,2017,Biogas,Other,475.42,0.4754
+THA,Thailand,2017,Geothermal energy,Other,0.3,0.0003
+THA,Thailand,2017,Offshore wind energy,Wind,0.0,0.0
+THA,Thailand,2017,Onshore wind energy,Wind,627.82,0.6278
+THA,Thailand,2017,Renewable hydropower,Hydro,1719.68,1.7197
+THA,Thailand,2017,Solar photovoltaic,Solar,2697.26,2.6973
+THA,Thailand,2018,Biogas,Other,505.24,0.5052
+THA,Thailand,2018,Geothermal energy,Other,0.3,0.0003
+THA,Thailand,2018,Offshore wind energy,Wind,0.0,0.0
+THA,Thailand,2018,Onshore wind energy,Wind,1102.82,1.1028
+THA,Thailand,2018,Renewable hydropower,Hydro,1738.38,1.7384
+THA,Thailand,2018,Solar photovoltaic,Solar,2962.44,2.9624
+THA,Thailand,2019,Biogas,Other,529.98,0.53
+THA,Thailand,2019,Geothermal energy,Other,0.3,0.0003
+THA,Thailand,2019,Offshore wind energy,Wind,0.0,0.0
+THA,Thailand,2019,Onshore wind energy,Wind,1506.82,1.5068
+THA,Thailand,2019,Renewable hydropower,Hydro,1738.45,1.7385
+THA,Thailand,2019,Solar photovoltaic,Solar,2982.62,2.9826
+THA,Thailand,2020,Biogas,Other,335.12,0.3351
+THA,Thailand,2020,Geothermal energy,Other,0.3,0.0003
+THA,Thailand,2020,Offshore wind energy,Wind,0.0,0.0
+THA,Thailand,2020,Onshore wind energy,Wind,1504.64,1.5046
+THA,Thailand,2020,Renewable hydropower,Hydro,1738.4,1.7384
+THA,Thailand,2020,Solar photovoltaic,Solar,2949.11,2.9491
+THA,Thailand,2021,Biogas,Other,397.79,0.3978
+THA,Thailand,2021,Geothermal energy,Other,0.3,0.0003
+THA,Thailand,2021,Offshore wind energy,Wind,0.0,0.0
+THA,Thailand,2021,Onshore wind energy,Wind,1543.15,1.5432
+THA,Thailand,2021,Renewable hydropower,Hydro,1738.37,1.7384
+THA,Thailand,2021,Solar photovoltaic,Solar,3030.26,3.0303
+THA,Thailand,2022,Biogas,Other,397.78,0.3978
+THA,Thailand,2022,Geothermal energy,Other,0.3,0.0003
+THA,Thailand,2022,Offshore wind energy,Wind,0.0,0.0
+THA,Thailand,2022,Onshore wind energy,Wind,1543.15,1.5432
+THA,Thailand,2022,Renewable hydropower,Hydro,1753.78,1.7538
+THA,Thailand,2022,Solar photovoltaic,Solar,3149.67,3.1497
+THA,Thailand,2023,Biogas,Other,397.78,0.3978
+THA,Thailand,2023,Geothermal energy,Other,0.3,0.0003
+THA,Thailand,2023,Offshore wind energy,Wind,0.0,0.0
+THA,Thailand,2023,Onshore wind energy,Wind,1543.56,1.5436
+THA,Thailand,2023,Renewable hydropower,Hydro,1760.0,1.76
+THA,Thailand,2023,Solar photovoltaic,Solar,3290.35,3.2904
+THA,Thailand,2024,Biogas,Other,395.58,0.3956
+THA,Thailand,2024,Geothermal energy,Other,0.3,0.0003
+THA,Thailand,2024,Offshore wind energy,Wind,0.0,0.0
+THA,Thailand,2024,Onshore wind energy,Wind,1543.56,1.5436
+THA,Thailand,2024,Renewable hydropower,Hydro,1760.01,1.76
+THA,Thailand,2024,Solar photovoltaic,Solar,3378.91,3.3789
+VNM,Vietnam,2015,Biogas,Other,2.43,0.0024
+VNM,Vietnam,2015,Geothermal energy,Other,0.0,0.0
+VNM,Vietnam,2015,Offshore wind energy,Wind,99.0,0.099
+VNM,Vietnam,2015,Onshore wind energy,Wind,31.0,0.031
+VNM,Vietnam,2015,Renewable hydropower,Hydro,16585.0,16.585
+VNM,Vietnam,2015,Solar photovoltaic,Solar,0.8,0.0008
+VNM,Vietnam,2016,Biogas,Other,2.43,0.0024
+VNM,Vietnam,2016,Geothermal energy,Other,0.0,0.0
+VNM,Vietnam,2016,Offshore wind energy,Wind,99.2,0.0992
+VNM,Vietnam,2016,Onshore wind energy,Wind,55.0,0.055
+VNM,Vietnam,2016,Renewable hydropower,Hydro,17806.0,17.806
+VNM,Vietnam,2016,Solar photovoltaic,Solar,0.8,0.0008
+VNM,Vietnam,2017,Biogas,Other,9.43,0.0094
+VNM,Vietnam,2017,Geothermal energy,Other,0.0,0.0
+VNM,Vietnam,2017,Offshore wind energy,Wind,99.2,0.0992
+VNM,Vietnam,2017,Onshore wind energy,Wind,99.5,0.0995
+VNM,Vietnam,2017,Renewable hydropower,Hydro,17766.4,17.7664
+VNM,Vietnam,2017,Solar photovoltaic,Solar,3.5,0.0035
+VNM,Vietnam,2018,Biogas,Other,11.75,0.0118
+VNM,Vietnam,2018,Geothermal energy,Other,0.0,0.0
+VNM,Vietnam,2018,Offshore wind energy,Wind,99.2,0.0992
+VNM,Vietnam,2018,Onshore wind energy,Wind,131.5,0.1315
+VNM,Vietnam,2018,Renewable hydropower,Hydro,17946.4,17.9464
+VNM,Vietnam,2018,Solar photovoltaic,Solar,100.5,0.1005
+VNM,Vietnam,2019,Biogas,Other,11.75,0.0118
+VNM,Vietnam,2019,Geothermal energy,Other,0.0,0.0
+VNM,Vietnam,2019,Offshore wind energy,Wind,99.2,0.0992
+VNM,Vietnam,2019,Onshore wind energy,Wind,269.35,0.2694
+VNM,Vietnam,2019,Renewable hydropower,Hydro,20283.0,20.283
+VNM,Vietnam,2019,Solar photovoltaic,Solar,4989.0,4.989
+VNM,Vietnam,2020,Biogas,Other,11.75,0.0118
+VNM,Vietnam,2020,Geothermal energy,Other,0.0,0.0
+VNM,Vietnam,2020,Offshore wind energy,Wind,99.2,0.0992
+VNM,Vietnam,2020,Onshore wind energy,Wind,412.8,0.4128
+VNM,Vietnam,2020,Renewable hydropower,Hydro,20774.0,20.774
+VNM,Vietnam,2020,Solar photovoltaic,Solar,16656.0,16.656
+VNM,Vietnam,2021,Biogas,Other,11.75,0.0118
+VNM,Vietnam,2021,Geothermal energy,Other,0.0,0.0
+VNM,Vietnam,2021,Offshore wind energy,Wind,994.0,0.994
+VNM,Vietnam,2021,Onshore wind energy,Wind,3118.0,3.118
+VNM,Vietnam,2021,Renewable hydropower,Hydro,21804.0,21.804
+VNM,Vietnam,2021,Solar photovoltaic,Solar,16656.0,16.656
+VNM,Vietnam,2022,Biogas,Other,11.75,0.0118
+VNM,Vietnam,2022,Geothermal energy,Other,0.0,0.0
+VNM,Vietnam,2022,Offshore wind energy,Wind,994.0,0.994
+VNM,Vietnam,2022,Onshore wind energy,Wind,4065.0,4.065
+VNM,Vietnam,2022,Renewable hydropower,Hydro,22492.0,22.492
+VNM,Vietnam,2022,Solar photovoltaic,Solar,16693.0,16.693
+VNM,Vietnam,2023,Biogas,Other,11.75,0.0118
+VNM,Vietnam,2023,Geothermal energy,Other,0.0,0.0
+VNM,Vietnam,2023,Offshore wind energy,Wind,1103.5,1.1035
+VNM,Vietnam,2023,Onshore wind energy,Wind,4778.0,4.778
+VNM,Vietnam,2023,Renewable hydropower,Hydro,22872.0,22.872
+VNM,Vietnam,2023,Solar photovoltaic,Solar,18582.92,18.5829
+VNM,Vietnam,2024,Biogas,Other,11.75,0.0118
+VNM,Vietnam,2024,Geothermal energy,Other,0.0,0.0
+VNM,Vietnam,2024,Offshore wind energy,Wind,1103.5,1.1035
+VNM,Vietnam,2024,Onshore wind energy,Wind,5075.3,5.0753
+VNM,Vietnam,2024,Renewable hydropower,Hydro,23664.0,23.664
+VNM,Vietnam,2024,Solar photovoltaic,Solar,18661.85,18.6618

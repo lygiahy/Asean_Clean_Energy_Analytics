@@ -1,0 +1,9 @@
+country_code,elec_access_2015_pct_iea,elec_access_2022_pct_iea,elec_access_2022_urban_pct_iea,elec_access_2022_rural_pct_iea,elec_access_improve_pp_iea,pop_without_elec_access_2022m_iea,cooking_access_2015_pct_iea,cooking_access_2022_pct_iea,cooking_access_improve_pp_iea,pop_without_cooking_2022m_iea,pop_biomass_2022m_iea,approx_elec_access_2022,approx_cooking_access_2015,approx_pop_without_elec_2022
+IDN,88.0,99.0,99.0,99.0,11.0,0.5,67.0,85,18.0,41,37.0,1,0,1
+KHM,52.0,96.0,99.0,95.0,44.0,0.5,21.0,41,20.0,10,10.0,0,1,1
+LAO,91.0,97.0,99.0,96.0,6.0,0.5,6.0,10,4.0,7,7.0,0,1,1
+MMR,30.0,64.0,98.0,48.0,34.0,20.0,21.0,39,18.0,33,31.0,0,1,0
+MYS,99.0,99.0,99.0,99.0,0.0,0.5,96.0,94,-2.0,2,0.5,1,0,1
+PHL,90.0,99.0,99.0,98.0,9.0,2.0,43.0,48,5.0,60,57.0,0,0,1
+THA,99.0,99.0,99.0,99.0,0.0,0.5,79.0,85,6.0,11,8.0,1,0,1
+VNM,99.0,99.0,99.0,99.0,0.0,0.5,79.0,94,15.0,6,6.0,1,0,1

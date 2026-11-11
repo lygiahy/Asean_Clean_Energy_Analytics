@@ -1,0 +1,483 @@
+"Electricity statistics by Country/area, Technology, Data Type, Grid connection and Year"
+
+"Country/area","Technology","Data Type","Grid connection","Year",Electricity statistics
+"Cambodia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2015",10.91
+"Cambodia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2016",16.38
+"Cambodia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",29.90
+"Cambodia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",40.85
+"Cambodia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",136.45
+"Cambodia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",329.53
+"Cambodia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",391.27
+"Cambodia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2022",476.11
+"Cambodia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2023",481.64
+"Cambodia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2024",871.84
+"Cambodia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Cambodia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Cambodia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Cambodia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Cambodia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Cambodia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Cambodia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Cambodia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Cambodia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Cambodia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Cambodia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Cambodia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Cambodia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Cambodia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Cambodia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Cambodia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Cambodia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Cambodia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Cambodia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Cambodia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Cambodia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2015",929.70
+"Cambodia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2016",930.00
+"Cambodia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2017",979.70
+"Cambodia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2018",1329.70
+"Cambodia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2019",1329.70
+"Cambodia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2020",1329.70
+"Cambodia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2021",1329.70
+"Cambodia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2022",1331.70
+"Cambodia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2023",1331.70
+"Cambodia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2024",1336.70
+"Cambodia","Biogas","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Cambodia","Biogas","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Cambodia","Biogas","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Cambodia","Biogas","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Cambodia","Biogas","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Cambodia","Biogas","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Cambodia","Biogas","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Cambodia","Biogas","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Cambodia","Biogas","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Cambodia","Biogas","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Cambodia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Cambodia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Cambodia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Cambodia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Cambodia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Cambodia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Cambodia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Cambodia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Cambodia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Cambodia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Indonesia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2015",36.94
+"Indonesia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2016",46.70
+"Indonesia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",54.48
+"Indonesia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",24.42
+"Indonesia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",105.03
+"Indonesia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",107.37
+"Indonesia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",155.29
+"Indonesia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2022",190.06
+"Indonesia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2023",323.46
+"Indonesia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2024",494.53
+"Indonesia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2015",1.46
+"Indonesia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2016",1.46
+"Indonesia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",1.46
+"Indonesia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",143.03
+"Indonesia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",153.83
+"Indonesia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",153.83
+"Indonesia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",153.83
+"Indonesia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2022",153.83
+"Indonesia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2023",151.82
+"Indonesia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2024",151.82
+"Indonesia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Indonesia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Indonesia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Indonesia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Indonesia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Indonesia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Indonesia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Indonesia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Indonesia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Indonesia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Indonesia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2015",5307.45
+"Indonesia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2016",5650.86
+"Indonesia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2017",5687.90
+"Indonesia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2018",4827.77
+"Indonesia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2019",5031.15
+"Indonesia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2020",5176.00
+"Indonesia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2021",5637.45
+"Indonesia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2022",5725.61
+"Indonesia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2023",5601.64
+"Indonesia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2024",6004.25
+"Indonesia","Biogas","Electricity Installed Capacity (MW)","On-grid","2015",45.72
+"Indonesia","Biogas","Electricity Installed Capacity (MW)","On-grid","2016",48.16
+"Indonesia","Biogas","Electricity Installed Capacity (MW)","On-grid","2017",48.62
+"Indonesia","Biogas","Electricity Installed Capacity (MW)","On-grid","2018",40.35
+"Indonesia","Biogas","Electricity Installed Capacity (MW)","On-grid","2019",42.15
+"Indonesia","Biogas","Electricity Installed Capacity (MW)","On-grid","2020",18.60
+"Indonesia","Biogas","Electricity Installed Capacity (MW)","On-grid","2021",22.10
+"Indonesia","Biogas","Electricity Installed Capacity (MW)","On-grid","2022",24.11
+"Indonesia","Biogas","Electricity Installed Capacity (MW)","On-grid","2023",36.51
+"Indonesia","Biogas","Electricity Installed Capacity (MW)","On-grid","2024",36.51
+"Indonesia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2015",1438.30
+"Indonesia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2016",1533.30
+"Indonesia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",1808.30
+"Indonesia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",1948.30
+"Indonesia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",2130.70
+"Indonesia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",2130.70
+"Indonesia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",2286.05
+"Indonesia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2022",2360.33
+"Indonesia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2023",2597.51
+"Indonesia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2024",2638.80
+"Lao People's Democratic Republic (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2015",0.64
+"Lao People's Democratic Republic (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2016",0.73
+"Lao People's Democratic Republic (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",6.80
+"Lao People's Democratic Republic (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",32.73
+"Lao People's Democratic Republic (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",32.73
+"Lao People's Democratic Republic (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",43.73
+"Lao People's Democratic Republic (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",57.74
+"Lao People's Democratic Republic (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2022",57.74
+"Lao People's Democratic Republic (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2023",57.76
+"Lao People's Democratic Republic (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2024",57.76
+"Lao People's Democratic Republic (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Lao People's Democratic Republic (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Lao People's Democratic Republic (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Lao People's Democratic Republic (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Lao People's Democratic Republic (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Lao People's Democratic Republic (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Lao People's Democratic Republic (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Lao People's Democratic Republic (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Lao People's Democratic Republic (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Lao People's Democratic Republic (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Lao People's Democratic Republic (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Lao People's Democratic Republic (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Lao People's Democratic Republic (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Lao People's Democratic Republic (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Lao People's Democratic Republic (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Lao People's Democratic Republic (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Lao People's Democratic Republic (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Lao People's Democratic Republic (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Lao People's Democratic Republic (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Lao People's Democratic Republic (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Lao People's Democratic Republic (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2015",4391.24
+"Lao People's Democratic Republic (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2016",4867.38
+"Lao People's Democratic Republic (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2017",5106.88
+"Lao People's Democratic Republic (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2018",5384.88
+"Lao People's Democratic Republic (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2019",6226.88
+"Lao People's Democratic Republic (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2020",8016.08
+"Lao People's Democratic Republic (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2021",8958.68
+"Lao People's Democratic Republic (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2022",9648.68
+"Lao People's Democratic Republic (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2023",9774.23
+"Lao People's Democratic Republic (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2024",10187.23
+"Lao People's Democratic Republic (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Lao People's Democratic Republic (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Lao People's Democratic Republic (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Lao People's Democratic Republic (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Lao People's Democratic Republic (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Lao People's Democratic Republic (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Lao People's Democratic Republic (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Lao People's Democratic Republic (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Lao People's Democratic Republic (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Lao People's Democratic Republic (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Lao People's Democratic Republic (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Lao People's Democratic Republic (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Lao People's Democratic Republic (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Lao People's Democratic Republic (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Lao People's Democratic Republic (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Lao People's Democratic Republic (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Lao People's Democratic Republic (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Lao People's Democratic Republic (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Lao People's Democratic Republic (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Lao People's Democratic Republic (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Malaysia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2015",219.89
+"Malaysia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2016",284.74
+"Malaysia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",328.31
+"Malaysia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",473.53
+"Malaysia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",821.66
+"Malaysia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",1475.15
+"Malaysia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",1575.12
+"Malaysia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2022",2122.81
+"Malaysia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2023",2137.23
+"Malaysia","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2024",2297.23
+"Malaysia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Malaysia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Malaysia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Malaysia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Malaysia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Malaysia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Malaysia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Malaysia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Malaysia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Malaysia","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Malaysia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Malaysia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Malaysia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Malaysia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Malaysia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Malaysia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Malaysia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Malaysia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Malaysia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Malaysia","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Malaysia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2015",6038.23
+"Malaysia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2016",6115.39
+"Malaysia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2017",5894.64
+"Malaysia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2018",6167.91
+"Malaysia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2019",6190.14
+"Malaysia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2020",6188.39
+"Malaysia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2021",6217.22
+"Malaysia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2022",6226.22
+"Malaysia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2023",6266.87
+"Malaysia","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2024",6266.87
+"Malaysia","Biogas","Electricity Installed Capacity (MW)","On-grid","2015",20.23
+"Malaysia","Biogas","Electricity Installed Capacity (MW)","On-grid","2016",58.27
+"Malaysia","Biogas","Electricity Installed Capacity (MW)","On-grid","2017",61.79
+"Malaysia","Biogas","Electricity Installed Capacity (MW)","On-grid","2018",69.94
+"Malaysia","Biogas","Electricity Installed Capacity (MW)","On-grid","2019",102.76
+"Malaysia","Biogas","Electricity Installed Capacity (MW)","On-grid","2020",110.59
+"Malaysia","Biogas","Electricity Installed Capacity (MW)","On-grid","2021",124.30
+"Malaysia","Biogas","Electricity Installed Capacity (MW)","On-grid","2022",137.60
+"Malaysia","Biogas","Electricity Installed Capacity (MW)","On-grid","2023",155.27
+"Malaysia","Biogas","Electricity Installed Capacity (MW)","On-grid","2024",155.27
+"Malaysia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Malaysia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Malaysia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Malaysia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Malaysia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Malaysia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Malaysia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Malaysia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Malaysia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Malaysia","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Myanmar","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Myanmar","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Myanmar","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Myanmar","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Myanmar","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",40.00
+"Myanmar","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",40.00
+"Myanmar","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",70.00
+"Myanmar","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2022",92.90
+"Myanmar","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2023",92.90
+"Myanmar","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2024",122.90
+"Myanmar","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Myanmar","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Myanmar","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Myanmar","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Myanmar","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Myanmar","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Myanmar","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Myanmar","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Myanmar","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Myanmar","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Myanmar","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Myanmar","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Myanmar","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Myanmar","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Myanmar","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Myanmar","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Myanmar","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Myanmar","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Myanmar","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Myanmar","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Myanmar","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2015",3183.00
+"Myanmar","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2016",3255.00
+"Myanmar","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2017",3255.00
+"Myanmar","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2018",3262.00
+"Myanmar","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2019",3262.00
+"Myanmar","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2020",3262.00
+"Myanmar","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2021",3262.00
+"Myanmar","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2022",3262.00
+"Myanmar","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2023",3262.00
+"Myanmar","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2024",3262.00
+"Myanmar","Biogas","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Myanmar","Biogas","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Myanmar","Biogas","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Myanmar","Biogas","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Myanmar","Biogas","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Myanmar","Biogas","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Myanmar","Biogas","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Myanmar","Biogas","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Myanmar","Biogas","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Myanmar","Biogas","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Myanmar","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Myanmar","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Myanmar","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Myanmar","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Myanmar","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Myanmar","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Myanmar","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Myanmar","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Myanmar","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Myanmar","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Philippines (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2015",181.31
+"Philippines (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2016",798.02
+"Philippines (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",922.61
+"Philippines (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",932.89
+"Philippines (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",994.69
+"Philippines (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",1073.93
+"Philippines (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",1396.63
+"Philippines (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2022",1648.84
+"Philippines (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2023",1784.04
+"Philippines (the)","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2024",2948.48
+"Philippines (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2015",426.90
+"Philippines (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2016",426.90
+"Philippines (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",426.90
+"Philippines (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",426.90
+"Philippines (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",426.90
+"Philippines (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",426.90
+"Philippines (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",426.90
+"Philippines (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2022",426.90
+"Philippines (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2023",426.90
+"Philippines (the)","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2024",426.90
+"Philippines (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Philippines (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Philippines (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Philippines (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Philippines (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Philippines (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Philippines (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Philippines (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Philippines (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Philippines (the)","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Philippines (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2015",2865.60
+"Philippines (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2016",2875.70
+"Philippines (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2017",2885.00
+"Philippines (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2018",2963.90
+"Philippines (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2019",2996.00
+"Philippines (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2020",3014.50
+"Philippines (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2021",3017.90
+"Philippines (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2022",3010.50
+"Philippines (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2023",3065.00
+"Philippines (the)","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2024",3102.10
+"Philippines (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2015",9.70
+"Philippines (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2016",9.70
+"Philippines (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2017",11.70
+"Philippines (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2018",24.09
+"Philippines (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2019",24.09
+"Philippines (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2020",26.49
+"Philippines (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2021",26.49
+"Philippines (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2022",25.69
+"Philippines (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2023",25.69
+"Philippines (the)","Biogas","Electricity Installed Capacity (MW)","On-grid","2024",26.87
+"Philippines (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2015",1916.10
+"Philippines (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2016",1916.10
+"Philippines (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",1916.10
+"Philippines (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",1928.10
+"Philippines (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",1928.10
+"Philippines (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",1928.10
+"Philippines (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",1928.10
+"Philippines (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2022",1932.00
+"Philippines (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2023",1951.80
+"Philippines (the)","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2024",1951.80
+"Thailand","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2015",1419.60
+"Thailand","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2016",2446.10
+"Thailand","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",2697.26
+"Thailand","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",2962.44
+"Thailand","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",2982.62
+"Thailand","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",2949.11
+"Thailand","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",3030.26
+"Thailand","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2022",3149.67
+"Thailand","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2023",3290.35
+"Thailand","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2024",3378.91
+"Thailand","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2015",233.90
+"Thailand","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2016",507.04
+"Thailand","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",627.82
+"Thailand","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",1102.82
+"Thailand","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",1506.82
+"Thailand","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",1504.64
+"Thailand","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",1543.15
+"Thailand","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2022",1543.15
+"Thailand","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2023",1543.56
+"Thailand","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2024",1543.56
+"Thailand","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Thailand","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Thailand","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Thailand","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Thailand","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Thailand","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Thailand","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Thailand","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Thailand","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Thailand","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2024",-
+"Thailand","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2015",1709.50
+"Thailand","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2016",1719.52
+"Thailand","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2017",1719.68
+"Thailand","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2018",1738.38
+"Thailand","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2019",1738.45
+"Thailand","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2020",1738.40
+"Thailand","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2021",1738.37
+"Thailand","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2022",1753.78
+"Thailand","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2023",1760.00
+"Thailand","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2024",1760.01
+"Thailand","Biogas","Electricity Installed Capacity (MW)","On-grid","2015",372.50
+"Thailand","Biogas","Electricity Installed Capacity (MW)","On-grid","2016",434.86
+"Thailand","Biogas","Electricity Installed Capacity (MW)","On-grid","2017",475.42
+"Thailand","Biogas","Electricity Installed Capacity (MW)","On-grid","2018",505.24
+"Thailand","Biogas","Electricity Installed Capacity (MW)","On-grid","2019",529.98
+"Thailand","Biogas","Electricity Installed Capacity (MW)","On-grid","2020",335.12
+"Thailand","Biogas","Electricity Installed Capacity (MW)","On-grid","2021",397.79
+"Thailand","Biogas","Electricity Installed Capacity (MW)","On-grid","2022",397.78
+"Thailand","Biogas","Electricity Installed Capacity (MW)","On-grid","2023",397.78
+"Thailand","Biogas","Electricity Installed Capacity (MW)","On-grid","2024",395.58
+"Thailand","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2015",0.30
+"Thailand","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2016",0.30
+"Thailand","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",0.30
+"Thailand","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",0.30
+"Thailand","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",0.30
+"Thailand","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",0.30
+"Thailand","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",0.30
+"Thailand","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2022",0.30
+"Thailand","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2023",0.30
+"Thailand","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2024",0.30
+"Viet Nam","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2015",0.80
+"Viet Nam","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2016",0.80
+"Viet Nam","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2017",3.50
+"Viet Nam","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2018",100.50
+"Viet Nam","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2019",4989.00
+"Viet Nam","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2020",16656.00
+"Viet Nam","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2021",16656.00
+"Viet Nam","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2022",16693.00
+"Viet Nam","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2023",18582.92
+"Viet Nam","Solar photovoltaic","Electricity Installed Capacity (MW)","On-grid","2024",18661.85
+"Viet Nam","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2015",31.00
+"Viet Nam","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2016",55.00
+"Viet Nam","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",99.50
+"Viet Nam","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",131.50
+"Viet Nam","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",269.35
+"Viet Nam","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",412.80
+"Viet Nam","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",3118.00
+"Viet Nam","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2022",4065.00
+"Viet Nam","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2023",4778.00
+"Viet Nam","Onshore wind energy","Electricity Installed Capacity (MW)","On-grid","2024",5075.30
+"Viet Nam","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2015",99.00
+"Viet Nam","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2016",99.20
+"Viet Nam","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2017",99.20
+"Viet Nam","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2018",99.20
+"Viet Nam","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2019",99.20
+"Viet Nam","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2020",99.20
+"Viet Nam","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2021",994.00
+"Viet Nam","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2022",994.00
+"Viet Nam","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2023",1103.50
+"Viet Nam","Offshore wind energy","Electricity Installed Capacity (MW)","On-grid","2024",1103.50
+"Viet Nam","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2015",16585.00
+"Viet Nam","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2016",17806.00
+"Viet Nam","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2017",17766.40
+"Viet Nam","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2018",17946.40
+"Viet Nam","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2019",20283.00
+"Viet Nam","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2020",20774.00
+"Viet Nam","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2021",21804.00
+"Viet Nam","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2022",22492.00
+"Viet Nam","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2023",22872.00
+"Viet Nam","Renewable hydropower","Electricity Installed Capacity (MW)","On-grid","2024",23664.00
+"Viet Nam","Biogas","Electricity Installed Capacity (MW)","On-grid","2015",2.43
+"Viet Nam","Biogas","Electricity Installed Capacity (MW)","On-grid","2016",2.43
+"Viet Nam","Biogas","Electricity Installed Capacity (MW)","On-grid","2017",9.43
+"Viet Nam","Biogas","Electricity Installed Capacity (MW)","On-grid","2018",11.75
+"Viet Nam","Biogas","Electricity Installed Capacity (MW)","On-grid","2019",11.75
+"Viet Nam","Biogas","Electricity Installed Capacity (MW)","On-grid","2020",11.75
+"Viet Nam","Biogas","Electricity Installed Capacity (MW)","On-grid","2021",11.75
+"Viet Nam","Biogas","Electricity Installed Capacity (MW)","On-grid","2022",11.75
+"Viet Nam","Biogas","Electricity Installed Capacity (MW)","On-grid","2023",11.75
+"Viet Nam","Biogas","Electricity Installed Capacity (MW)","On-grid","2024",11.75
+"Viet Nam","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2015",-
+"Viet Nam","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2016",-
+"Viet Nam","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2017",-
+"Viet Nam","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2018",-
+"Viet Nam","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2019",-
+"Viet Nam","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2020",-
+"Viet Nam","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2021",-
+"Viet Nam","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2022",-
+"Viet Nam","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2023",-
+"Viet Nam","Geothermal energy","Electricity Installed Capacity (MW)","On-grid","2024",-
